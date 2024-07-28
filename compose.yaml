@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  pytorch:
+    build: .
+    container_name: pytorch
+    volumes:
+      - ./:/app
+    stdin_open: true
+    tty: true 
+    runtime: nvidia  # Especifica el runtime de NVIDIA para usar las GPUs
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
