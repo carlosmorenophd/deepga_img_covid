@@ -31,7 +31,9 @@ class DatasetImages():
                 image_pillow = Image.open(path_image)
                 array_image = np.array(image_pillow.resize(size=size).convert('L'))
                 image_normalized = array_image / 255.0
-                vector = np.append(image_normalized.ravel(), int(sub_folder))
+                number = int(sub_folder)
+                if number> -1:
+                    vector = np.append(image_normalized.ravel(), number)
                 if self.dataset is None:
                     self.dataset = vector
                 else:

@@ -1,6 +1,6 @@
 # docker run -it --rm -p 8888:8888 --gpus all 
 FROM quay.io/jupyter/tensorflow-notebook:cuda-latest
-WORKDIR /code
+WORKDIR /app
 
 RUN pip install torch torchvision torchaudio torchtext
 RUN pip install pandas xlwt torchsummary torchvision
