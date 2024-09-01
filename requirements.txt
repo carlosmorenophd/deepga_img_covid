@@ -13,7 +13,7 @@ colorlog==6.8.2
 comm==0.2.2
 contourpy==1.2.1
 cycler==0.12.1
-debugpy==1.8.2
+debugpy==1.8.5
 decorator==5.1.1
 dnspython==2.6.1
 email_validator==2.2.0
@@ -89,7 +89,7 @@ pytorch-lightning==2.3.3
 pytorch_optimizer==2.12.0
 pytz==2024.1
 PyYAML==6.0.1
-pyzmq==26.0.3
+pyzmq==26.1.0
 requests==2.32.3
 rich==13.7.1
 scikit-learn==1.5.1
