@@ -21,7 +21,7 @@ class DatasetImages():
     ) -> None:
         list_main_folder = os.listdir(main_folder)
         sub_folders = [element for element in list_main_folder if os.path.isdir(
-            os.path.join(main_folder, element))]
+            os.path.join(main_folder, element)) and not element.startswith('.')]
         for sub_folder in sub_folders:
             path_sub_folder = os.path.join(main_folder, sub_folder)
             images = [image for image in os.listdir(

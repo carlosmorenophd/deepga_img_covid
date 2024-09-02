@@ -10,12 +10,9 @@ RUN apt-get update && \
     apt-get -y install ffmpeg libsm6 libxext6  && \
     rm -rf /var/lib/apt/lists/*
 
-    
-RUN apt install git git-flow nano -y
-# RUN pip install torch torchvision torchaudio torchtext
-# RUN pip install pandas xlwt torchsummary torchvision
-# RUN pip install pytorch-forecasting
-
+RUN apt-get update && \    
+    apt-get install git git-flow nano -y &&\
+    rm -rf /var/lib/apt/lists/*
 
 COPY requirements.txt .
 RUN pip install --no-cache-dir --upgrade -r requirements.txt
