@@ -1,5 +1,8 @@
 {
     "cSpell.ignoreWords": [
         "imread"
+    ],
+    "cSpell.words": [
+        "cuda"
     ]
 }
