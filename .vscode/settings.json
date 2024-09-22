@@ -1,8 +1,13 @@
 {
     "cSpell.ignoreWords": [
+        "Entrenamiento",
+        "Validacion",
+        "arange",
+        "astype",
         "imread",
         "numel",
         "optim",
+        "printoptions",
         "relu",
         "savetxt",
         "softmax",

@@ -1,3 +1,5 @@
+#Remove files autogenerates
+*__build.h5
 *test/
 test_*
 # Byte-compiled / optimized / DLL files
