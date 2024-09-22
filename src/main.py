@@ -1,4 +1,4 @@
-from app.preprocessing.convert_to_mnist import Folder_Image_to_MNIST
+from preprocessing.dataset_img import Folder_Image_to_MNIST
 
 def run():
     print("Run")

@@ -1,0 +1,21 @@
+Network Architecture,Connections
+"The network has 3 convolutional layers with: (4, 3, avg, 4) (8, 2, avg, 3) (8, 2, avg, 3) and 2 fully-connected layers with: (64)(128) neurons",zero - 
+"The network has 3 convolutional layers with: (8, 3, avg, 2) (8, 2, avg, 3) (8, 3, avg, 2) and 2 fully-connected layers with: (64)(128) neurons",zero - 
+"The network has 2 convolutional layers with: (32, 6, avg, 2) (8, 3, avg, 2) and 1 fully-connected layers with: (64) neurons",
+"The network has 3 convolutional layers with: (4, 3, avg, 4) (8, 2, avg, 3) (8, 3, avg, 2) and 2 fully-connected layers with: (64)(128) neurons",zero - 
+"The network has 3 convolutional layers with: (4, 3, avg, 4) (8, 2, avg, 3) (8, 3, avg, 2) and 2 fully-connected layers with: (64)(128) neurons",zero - 
+"The network has 2 convolutional layers with: (8, 6, max, 5) (8, 3, avg, 2) and 3 fully-connected layers with: (16)(64)(64) neurons",
+"The network has 4 convolutional layers with: (4, 3, avg, 4) (8, 2, max, 4) (8, 2, avg, 3) (8, 3, avg, 2) and 2 fully-connected layers with: (64)(64) neurons",zero - one - zero - 
+"The network has 3 convolutional layers with: (4, 3, avg, 4) (8, 2, avg, 3) (8, 2, avg, 3) and 2 fully-connected layers with: (64)(128) neurons",zero - 
+"The network has 3 convolutional layers with: (4, 3, avg, 4) (8, 2, avg, 3) (8, 2, avg, 3) and 2 fully-connected layers with: (64)(128) neurons",zero - 
+"The network has 3 convolutional layers with: (4, 3, avg, 4) (8, 2, avg, 3) (8, 3, avg, 2) and 2 fully-connected layers with: (64)(128) neurons",zero - 
+"The network has 3 convolutional layers with: (4, 3, avg, 4) (8, 2, avg, 3) (8, 3, avg, 2) and 2 fully-connected layers with: (64)(128) neurons",zero - 
+"The network has 3 convolutional layers with: (8, 3, avg, 2) (8, 2, avg, 3) (8, 3, avg, 2) and 2 fully-connected layers with: (64)(128) neurons",zero - 
+"The network has 2 convolutional layers with: (8, 6, max, 5) (8, 3, avg, 2) and 3 fully-connected layers with: (16)(4)(64) neurons",
+"The network has 2 convolutional layers with: (32, 6, avg, 2) (8, 2, avg, 3) and 1 fully-connected layers with: (16) neurons",
+"The network has 4 convolutional layers with: (4, 3, avg, 4) (8, 2, avg, 3) (16, 3, off, 4) (8, 3, avg, 2) and 2 fully-connected layers with: (64)(64) neurons",zero - zero - zero - 
+"The network has 3 convolutional layers with: (8, 3, avg, 2) (8, 2, avg, 3) (8, 2, avg, 3) and 2 fully-connected layers with: (64)(128) neurons",zero - 
+"The network has 3 convolutional layers with: (4, 3, avg, 4) (8, 2, avg, 3) (8, 3, avg, 2) and 2 fully-connected layers with: (64)(128) neurons",zero - 
+"The network has 3 convolutional layers with: (4, 3, avg, 4) (8, 2, avg, 3) (8, 3, avg, 2) and 2 fully-connected layers with: (64)(128) neurons",zero - 
+"The network has 3 convolutional layers with: (4, 3, avg, 4) (8, 2, avg, 3) (8, 3, avg, 2) and 2 fully-connected layers with: (64)(128) neurons",zero - 
+"The network has 3 convolutional layers with: (8, 3, avg, 2) (8, 2, avg, 3) (8, 3, avg, 2) and 2 fully-connected layers with: (64)(128) neurons",zero - 

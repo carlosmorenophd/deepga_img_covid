@@ -1,6 +1,12 @@
 {
     "cSpell.ignoreWords": [
-        "imread"
+        "imread",
+        "numel",
+        "optim",
+        "relu",
+        "savetxt",
+        "softmax",
+        "torchvision"
     ],
     "cSpell.words": [
         "cuda"
