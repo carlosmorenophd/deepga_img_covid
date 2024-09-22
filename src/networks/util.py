@@ -56,6 +56,7 @@ def run_batch_convolution_neural_network(
         train_losses.append(loss.item())
         train_correct.append(trn_corr)
 
+        model.eval()
         # Run the testing batches
         with torch.no_grad():
             for b, (X_test, y_test) in enumerate(test_loader):

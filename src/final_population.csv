@@ -1,0 +1,21 @@
+Network Architecture,Connections
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (64) neurons",one - one - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (64) neurons",one - one - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (64) neurons",one - one - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (64) neurons",one - one - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (16) neurons",zero - one - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (32) neurons",one - one - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (64) neurons",one - one - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (32) neurons",one - zero - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 2 fully-connected layers with: (32)(64) neurons",one - one - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (64) neurons",zero - one - zero - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (64) neurons",one - one - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (64) neurons",one - one - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (32) neurons",zero - one - zero - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (32) neurons",zero - one - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, max, 3) and 1 fully-connected layers with: (16) neurons",zero - one - zero - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (16) neurons",zero - one - one - 
+"The network has 5 convolutional layers with: (16, 2, avg, 2) (32, 3, off, 2) (2, 5, off, 3) (32, 5, off, 4) (2, 2, max, 2) and 1 fully-connected layers with: (32) neurons",zero - one - one - zero - one - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (64) neurons",zero - one - zero - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (64) neurons",zero - one - one - 
+"The network has 4 convolutional layers with: (16, 2, avg, 2) (2, 5, off, 3) (32, 5, off, 4) (4, 2, avg, 2) and 1 fully-connected layers with: (32) neurons",zero - one - one - 
